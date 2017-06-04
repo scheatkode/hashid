@@ -1,0 +1,2 @@
+# hashid
+Hash algorithm identifier
